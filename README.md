@@ -7,7 +7,7 @@ Things you may want to cover:
 
 * Ruby version 3.0.4
 
-* System dependencies
+* Rails 7.0.4
 
 * Configuration
 
